@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project aims to analyze the positioning and size of bike-share stations in relation to points of interest in the city of Dublin. The data for bike-share stations is sourced from citybik.es, while points of interest data is collected from Yelp and Foursquare (FSQ) APIs.
+This project aims to analyze the positioning and size of bike-share stations in relation to points of interest in the city of New York. The data for bike-share stations is sourced from citybik.es, while points of interest data is collected from Yelp and Foursquare (FSQ) APIs.
 
 ## Process
 
